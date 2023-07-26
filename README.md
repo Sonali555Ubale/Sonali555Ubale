@@ -1,8 +1,6 @@
-![logo]()
+![logo](https://github.com/Sonali555Ubale/Sonali555Ubale/blob/main/Black%20Blue%20Simple%20Gaming%20Banner%20Landscape.gif)
 <h1 align="center">Hi 👋, I'm Sonali Haribhau Ubale</h1>
 <h3 align="center">A passionate Game Designer and Developer</h3>
-
-<img align="right" alt="Game Developer" src="file:///C:/Users/sonal/Downloads/game-development-5598281-4679575.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali555ubale&label=Profile%20views&color=0e75b6&style=flat" alt="sonali555ubale" /> </p>
 
